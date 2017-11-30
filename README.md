@@ -1,5 +1,5 @@
 # MemoryPrototype3
-# Java, Networking, Multi thread server client project, exception handling, lambda functions, interfaces, inheritance, GUI, javax.swing
+# Java, Networking, Object oriented programming, Multi thread server client project, exception handling, lambda functions, interfaces, inheritance, GUI, javax.swing
 #Harmanjit Randhawa
 
 This is the final version of the memory game. It is the extended version of second prototype that includes additional features like 
