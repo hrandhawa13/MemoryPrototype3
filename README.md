@@ -10,3 +10,4 @@ Complete API for the project is in docs folder.
 Scripts to run the program is in scripts folder. 
 Please read readMe.txt first to get a raw idea of running the code. 
 There is also a demo video in which I run the complete program.
+All the files can be downloaded from the zip folder
